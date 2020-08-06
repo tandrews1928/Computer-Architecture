@@ -1,0 +1,29 @@
+Input: level
+    is a palindrome
+    C = 249
+    IC = 47
+    Speedup = 1.51
+
+input: rotavator
+    is a palindrome
+    C = 409
+    IC = 77
+    speedup = 1.506
+
+input: mom
+    is a palindrome
+    C = 169
+    IC = 32
+    Speedup = 1.515
+
+input: test
+    is not a palindrome
+    C = 214
+    IC = 40
+    Speedup = 1.495
+
+input: wareagle
+    is not a palindrome
+    C = 260
+    IC = 49
+    Speedup = 1.508
